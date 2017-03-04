@@ -1,3 +1,6 @@
 [submodule "newTab"]
 	path = newTab
 	url = https://github.com/s-ritik16n/newTab.git
+[submodule "dragNSearch"]
+	path = dragNSearch
+	url = https://github.com/s-ritik16n/dragNSearch.git
